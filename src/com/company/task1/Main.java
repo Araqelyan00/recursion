@@ -1,9 +1,9 @@
-package com.company;
+package com.company.task1;
 
 import java.util.Scanner;
 
-import static com.company.Factorial.factorial;
-import static com.company.Fibonacci.fibonacci;
+import static com.company.task1.Factorial.factorial;
+import static com.company.task1.Fibonacci.fibonacci;
 
 public class Main {
 
